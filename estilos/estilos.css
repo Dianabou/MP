@@ -1,0 +1,66 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    text-align: center;
+    margin: 20px;
+}
+.titulo{
+    margin-left: 50px;
+    display: inline-block;
+}
+h1,h3{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+.lista2{
+    list-style-position: initial;
+    margin: 0px;
+}
+.container{
+    display: inline-block;
+}
+aside{
+    float: left;
+    width: 25%;
+    background-color: beige;
+}
+aside::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.wapp{
+    width: 45%;
+    float: left;
+    padding: 20px;
+    background-color: greenyellow;
+}
+.mail{
+    width: 45%;
+    float: left;
+    padding: 20px;
+    background-color: red;
+}
+a{
+    margin: 10px;
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin: 20px;
+    background-color: grey;
+}
+button{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    width: auto;
+}
+main{
+    width: 75%;
+    float: left;
+}
