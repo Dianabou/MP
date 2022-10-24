@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-067ZB7NRZZ"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-067ZB7NRZZ");
+    </script>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,21 +35,8 @@
     <title>Contacto</title>
   </head>
   <body>
-    <header>
-      <nav class="container">
-        <a href="index.html"
-          ><img src="imágenes/logo MP2.png" alt="Logo DMP" width="100"
-        /></a>
-        <a href="higiene_gatos.html">HIGIENE GATOS</a>
-        <a href="higiene_perros.html">HIGIENE PERROS</a>
-        <a href="huesos_golosinas.html">VARIEDAD DE HUESOS Y GOLOSINAS</a>
-        <a href="contacto.html">CONTACTO</a>
-      </nav>
-      <div class="titulo">
-        <h1>DISTRIBUIDORA MASCOTAS PUEYRREDÓN</h1>
-        <h3>Distribuidores directos de piedras sanitarias</h3>
-      </div>
-    </header>
+    <header id="idheader"></header>
+    <script src="script/header.js"></script>
     <aside>
       <h2>Listas de precios</h2>
       <h3>
@@ -112,4 +113,6 @@
       </ul>
     </aside>
   </body>
+  <footer id="idfooter"></footer>
+  <script src="script/footer.js"></script>
 </html>
