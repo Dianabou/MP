@@ -48,7 +48,12 @@ a{
     margin: 10px;
     text-decoration: none;
 }
+main{
+    width: 100%;
+    float: left;
+}
 footer{
+    width: 100%;
     text-align: center;
     margin: 20px;
     background-color: grey;
@@ -59,8 +64,4 @@ button{
     border-radius: 50px;
     display: inline-block;
     width: auto;
-}
-main{
-    width: 75%;
-    float: left;
 }
