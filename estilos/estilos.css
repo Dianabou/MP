@@ -8,16 +8,6 @@
     margin-left: 50px;
     display: inline-block;
 }
-h1,h3{
-    text-align: center;
-}
-li{
-    list-style-type: none;
-}
-.lista2{
-    list-style-position: initial;
-    margin: 0px;
-}
 .container{
     display: inline-block;
 }

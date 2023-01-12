@@ -1,7 +1,7 @@
 document.getElementById("idheader").innerHTML = `
 <nav class="navbar bg-body-tertiary fixed-top">
 <div class="container-fluid">
-  <a class="navbar-brand" href="#"
+  <a class="navbar-brand" href="index.html"
     ><img src="imágenes/logo MP2.png" alt="Logo DMP" width="50"
   /></a>
   <button
@@ -56,6 +56,7 @@ document.getElementById("idheader").innerHTML = `
             <li><a class="dropdown-item" href="#">Rubicat</a></li>
           </ul>
         </li>
+        <br>
         <li class="nav-item dropdown">
           <a
             class="nav-link dropdown-toggle"
@@ -88,6 +89,7 @@ document.getElementById("idheader").innerHTML = `
           </ul>
         </li>
       </ul>
+      <br>
       <form class="d-flex mt-3" role="search">
         <input
           class="form-control me-2"
@@ -103,15 +105,6 @@ document.getElementById("idheader").innerHTML = `
   </div>
 </div>
 </nav>
-<!-- <nav class="container">
-        <a href="index.html"
-          ><img src="imágenes/logo MP2.png" alt="Logo DMP" width="100"
-        /></a>
-        <a href="higiene_gatos.html">HIGIENE GATOS</a>
-        <a href="higiene_perros.html">HIGIENE PERROS</a>
-        <a href="huesos_golosinas.html">VARIEDAD DE HUESOS Y GOLOSINAS</a>
-        <a href="contacto.html">CONTACTO</a>
-      </nav> -->
 <div class="titulo">
   <h1>DISTRIBUIDORA MASCOTAS PUEYRREDÓN</h1>
         <h3>Distribuidores directos de piedras sanitarias</h3>
