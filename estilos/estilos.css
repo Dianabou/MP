@@ -1,11 +1,9 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-header{
-    text-align: center;
-    margin: 20px;
-}
+
 .titulo{
+    text-align: center;
     margin-top: 100px;
     margin-left: 50px;
     display: inline-block;
@@ -45,10 +43,7 @@ aside::after {
     padding: 20px;
     background-color: red;
 }
-a{
-    margin: 10px;
-    text-decoration: none;
-}
+
 main{
     width: 100%;
     float: left;

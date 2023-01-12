@@ -112,7 +112,7 @@ document.getElementById("idheader").innerHTML = `
         <a href="huesos_golosinas.html">VARIEDAD DE HUESOS Y GOLOSINAS</a>
         <a href="contacto.html">CONTACTO</a>
       </nav> -->
-      <div class="titulo">
-        <h1>DISTRIBUIDORA MASCOTAS PUEYRREDÓN</h1>
+<div class="titulo">
+  <h1>DISTRIBUIDORA MASCOTAS PUEYRREDÓN</h1>
         <h3>Distribuidores directos de piedras sanitarias</h3>
       </div>`;
