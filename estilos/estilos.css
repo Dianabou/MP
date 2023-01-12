@@ -39,6 +39,7 @@ main{
     float: left;
 }
 footer{
+    float: left;
     width: 100%;
     text-align: center;
     margin: 20px;
