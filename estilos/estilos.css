@@ -40,10 +40,10 @@ main{
     float: left;
 }
 footer{
-    float: left;
-    width: 100%;
+    display: block;
     text-align: center;
-    background-color: grey;
+    color: white;
+    background-color: black;
 }
 button{
     margin: 10px;
