@@ -1,5 +1,5 @@
 *{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Economica', sans-serif;
 }
 
 .titulo{
@@ -7,7 +7,7 @@
     color: white;
     text-align: center;
     margin-top: 100px;
-    display: inline-block;
+    display: block;
 }
 .container{
     display: inline-block;
