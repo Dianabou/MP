@@ -8,12 +8,14 @@
     margin-top: 100px;
     display: block;
 }
+main{
+    display: flex;   
+}
 .wapp{
     display: flex;
-    position: fixed;
+    float: left;
 }
 footer{
-    display: block;
     text-align: center;
     color: white;
     background-color: black;

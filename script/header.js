@@ -1,5 +1,5 @@
 document.getElementById("idheader").innerHTML = `
-<nav class="navbar bg-body-dark fixed-top">
+<nav class="navbar bg-body-black fixed-top">
 <div class="container-fluid">
   <a class="navbar-brand" href="index.html"
     ><img src="imágenes/logo MP2.png" alt="Logo DMP" width="80"
