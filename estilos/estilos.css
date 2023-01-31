@@ -9,11 +9,13 @@
     display: block;
 }
 main{
-    display: flex;   
+    display: flexbox;   
+}
+.carrusel{
+    display: flex;
 }
 .wapp{
     display: flex;
-    float: left;
 }
 footer{
     text-align: center;
