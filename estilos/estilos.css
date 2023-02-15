@@ -16,10 +16,10 @@ main{
 }
 .btn-wsp{
     position: fixed;
-    width: 60px;
-    height: 60px;
-    line-height: 60px;
-    bottom: 50px;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    bottom: 80px;
     right: 30px;
     background-color: #0df053;
     color: #fff;
